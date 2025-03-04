@@ -6,10 +6,10 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "left"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-          <img src="https://img.shields.io/badge/C%23-033963?style=for-the-badge&logo=C%23&logoColor=white">
-          <img src="https://img.shields.io/badge/opengl-5586A4?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-          <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=C%2B%2B&logoColor=black">
-          <img src="https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+          <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+          <img src="https://img.shields.io/badge/opengl-5586A4?style=for-the-badge&logo=opengl&logoColor=white">
+          <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
+          <img src="https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
           </div>
     </div>
     <div align= "left">
@@ -24,9 +24,9 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "left"> <img src="https://github-readme-stats.vercel.app/api?username=leejy811&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leejy811&layout=compact&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
-        <div align= "left"> <img src="[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejy811)](https://solved.ac/leejy811/)"
-         /> </div> 
     </div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejy811)](https://solved.ac/leejy811/)
 
 <!--
 **leejy811/leejy811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
